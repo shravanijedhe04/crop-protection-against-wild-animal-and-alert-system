@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Wild Animal Dataset</folder>
+	<filename>443.jpg</filename>
+	<path>C:\D drive\LABEL PROJECT\Wild Animal Dataset\443.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>60</ymin>
+			<xmax>264</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Porcupine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>48</ymin>
+			<xmax>500</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Wild Animal Dataset</folder>
+	<filename>409.jpg</filename>
+	<path>C:\D drive\LABEL PROJECT\Wild Animal Dataset\409.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Warthog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>77</ymin>
+			<xmax>265</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>40</ymin>
+			<xmax>534</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
